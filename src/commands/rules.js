@@ -33,14 +33,15 @@ const RULES = {
       '**4.** Keep background noise to a minimum'
     ]
   },
-  advertising: {
-    title: '📢 Advertising Rules',
+  reporting: {
+    title: '🚨 User Reporting',
     color: 0xEB459E,
     rules: [
-      '**1.** Advertise only in designated advertising channels',
-      '**2.** No DM advertising to members',
-      '**3.** No fake giveaways or invite rewards',
-      '**4.** One advertisement per 24 hours'
+      '**1.** Use `/report` or DM a moderator to report issues',
+      '**2.** Provide screenshots and user IDs when reporting',
+      '**3.** Do not false report — this is punishable',
+      '**4.** Do not ping staff for minor issues, use tickets',
+      '**5.** Harassment, raids, or NSFW should be reported immediately'
     ]
   },
   punishment: {
